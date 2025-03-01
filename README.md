@@ -1,10 +1,10 @@
 # Mini-compiler
-**Descriere**
+# **Descriere**
 
 Mini Compiler este un proiect care implementează un compilator simplu capabil să analizeze și să traducă cod sursă într-o reprezentare intermediară. Acesta include componente esențiale ale unui compilator, cum ar fi analiza lexicală, sintactică și semantică, alături de generarea codului intermediar.
 
 
-**Funcționalități**
+# **Funcționalități**
 
 Analiză lexicală – împarte codul sursă în token-uri.
 
@@ -15,7 +15,7 @@ Analiză semantică – detectează erori legate de tipuri și variabile.
 Generare de cod intermediar – transformă codul într-o formă utilizabilă pentru interpretare sau compilare ulterioară.
 
 
-**Cerințe**
+# **Cerințe**
 
 Limbaj: C/C++
 
