@@ -1,0 +1,10 @@
+C:\Users\stanc\OneDrive\Documente\ANTLR-poj2\ANTLR-poj2\bin\Release\ANTLR-poj2.exe.config
+C:\Users\stanc\OneDrive\Documente\ANTLR-poj2\ANTLR-poj2\bin\Release\ANTLR-poj2.exe
+C:\Users\stanc\OneDrive\Documente\ANTLR-poj2\ANTLR-poj2\bin\Release\ANTLR-poj2.pdb
+C:\Users\stanc\OneDrive\Documente\ANTLR-poj2\ANTLR-poj2\bin\Release\Antlr4.Runtime.Standard.dll
+C:\Users\stanc\OneDrive\Documente\ANTLR-poj2\ANTLR-poj2\bin\Release\Antlr4.Runtime.Standard.xml
+C:\Users\stanc\OneDrive\Documente\ANTLR-poj2\ANTLR-poj2\obj\Release\ANTLR-poj2.csproj.AssemblyReference.cache
+C:\Users\stanc\OneDrive\Documente\ANTLR-poj2\ANTLR-poj2\obj\Release\ANTLR-poj2.csproj.CoreCompileInputs.cache
+C:\Users\stanc\OneDrive\Documente\ANTLR-poj2\ANTLR-poj2\obj\Release\ANTLR-poj2.csproj.Up2Date
+C:\Users\stanc\OneDrive\Documente\ANTLR-poj2\ANTLR-poj2\obj\Release\ANTLR-poj2.exe
+C:\Users\stanc\OneDrive\Documente\ANTLR-poj2\ANTLR-poj2\obj\Release\ANTLR-poj2.pdb

@@ -1,0 +1,3 @@
+
+Raport erori:
+Erori sintactice detectate: 3

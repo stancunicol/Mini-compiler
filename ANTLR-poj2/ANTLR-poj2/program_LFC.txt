@@ -1,0 +1,54 @@
+﻿#include "math.h"
+#include "stdio.h"
+
+// Function declarations
+int add(int a, int b) { 
+    return a + b; // Return statement with an expression 
+}
+
+float multiply(float x, float y) {
+    return x * y; // Return statement with a multiplication
+}
+
+string greet() {
+    string message = "Hello from greet!";
+    return message; // Return a string literal
+}
+
+void printValues(int x, float y) {
+    // Simple print logic (no actual printing, as per grammar)
+    if (x > 0 && y > 0.0) {
+        int z = x; // Local variable
+        z = z + 1;
+    }
+}
+
+int x;
+
+int main() {
+    // Global variable declarations and assignments
+    int num1 = 10;
+    int num2 = 20;
+    float result = 0.0;
+
+    // Function calls
+    result = add(num1, num2);
+    result = multiply(result, 3.5);
+
+    string message = greet();
+    
+    // Looping through values
+    for (int i = 0; i < 5; i = i + 1) {
+        result = result + i;
+    }
+
+    // While loop example
+    while (result > 50.0) {
+        result = result - 5.0;
+    }
+
+    // Call void function
+    printValues(num1, result);
+
+    return 0;
+}

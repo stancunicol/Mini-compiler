@@ -1,0 +1,6 @@
+
+Lista structurilor:
+
+Raport erori:
+Erori detectate: 1
+Eroare la linia 41, coloana 20: no viable alternative at input 'intmain(){intnum1=10;intnum2=20;floatresult=0.0;result=add(num1,num2);result=multiply(result,3.5);stringmessage=greet();for(inti=0;i'
